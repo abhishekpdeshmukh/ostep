@@ -1,2 +1,2 @@
 # ostep
-Solution Repository for OSTEP
+This repository contains solutions for the homework problems in 'Operating Systems: Three Easy Pieces.
